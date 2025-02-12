@@ -32,7 +32,7 @@ npx prisma migrate dev
 
 5. Запуск серверу
 ```bash
-npm run start:dev
+npm run start dev
 ```
 
 6. Тепер ви можете зайти на http://localhost:8000, щоб перевірити роботу бекенду.
